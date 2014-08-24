@@ -1,5 +1,3 @@
-# Step 0 - Setup packages
-require(sqldf)
 
 # Step 1 - Read all Test data 
 test_activity_data <- read.table("test/y_test.txt", sep=" ", header=FALSE)
