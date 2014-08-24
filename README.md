@@ -7,7 +7,6 @@ GettingCleaningDataProject
 
 The R code file 'run_analyis.R' has code organized in the following logical steps.
 
-Step 0 - Setup packages
 
 Step 1 - Read all Test data 
 
