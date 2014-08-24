@@ -2,7 +2,8 @@ GettingCleaningDataProject
 ==========================
 ##### My project code and documentation for my Coursera class: Getting &amp; Cleaning data
 
-For the codebook, please refer to Codebook.md
+##### For the codebook, please refer to Codebook.md
+
 
 The R code file 'run_analyis.R' has code organized in the following logical steps.
 
