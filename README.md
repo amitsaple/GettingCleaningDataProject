@@ -1,6 +1,6 @@
 GettingCleaningDataProject
 ==========================
-My project code and documentation for my Coursera class: Getting &amp; Cleaning data
+##### My project code and documentation for my Coursera class: Getting &amp; Cleaning data
 
 For the codebook, please refer to Codebook.md
 
