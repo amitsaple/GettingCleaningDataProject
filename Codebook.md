@@ -11,15 +11,10 @@ This column identifies the subject in the dataset (Values range from 1 to 30)
 This column identifies the activity type in the dataset. Numeric (1-6) values correspond to the below activity description.
 
 1 WALKING
-
 2 WALKING_UPSTAIRS
-
 3 WALKING_DOWNSTAIRS
-
 4 SITTING
-
 5 STANDING
-
 6 LAYING
 
 
