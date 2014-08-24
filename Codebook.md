@@ -1,26 +1,12 @@
 ##### The tidy dataset has the following columns, all shown in quotes "":
 
 
-"Subject ID"
-
-This column identifies the subject in the dataset (Values range from 1 to 30)
+"Subject ID" - This column identifies the subject in the dataset (Values range from 1 to 30)
 
 
-"Activity ID"
+"Activity ID" - This column identifies the activity type in the dataset. Numeric (1-6) values correspond to the below activity description.
 
-This column identifies the activity type in the dataset. Numeric (1-6) values correspond to the below activity description.
-
-1 WALKING
-
-2 WALKING_UPSTAIRS
-
-3 WALKING_DOWNSTAIRS
-
-4 SITTING
-
-5 STANDING
-
-6 LAYING
+1 WALKING, 2 WALKING_UPSTAIRS, 3 WALKING_DOWNSTAIRS, 4 SITTING, 5 STANDING, 6 LAYING
 
 
 The remaining columns are the averages of the features for a distinct combination of a Subject and his/her activity. 
