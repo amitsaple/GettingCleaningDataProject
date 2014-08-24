@@ -6,8 +6,11 @@ For the codebook, please refer to Codebook.md
 The R code file 'run_analyis.R' has code organized in the following logical steps.
 
 #### Step 0 - Setup packages
+
 #### Step 1 - Read all Test data 
+
 #### Step 2 - Read all Training data
+
 #### Step 3 - Combine all Test data into 1 dataframe
 #### Step 4 - Combine all Training data into 1 dataframe
 #### Step 5 - Combine Test and Training data into 1 dataframe (all_data)
